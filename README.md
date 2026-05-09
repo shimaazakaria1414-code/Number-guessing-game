@@ -124,5 +124,3 @@ number-guessing-game/
 
 ## Author
 Shimaa.M.Zakaria
-
-Shimaa Zakaria
